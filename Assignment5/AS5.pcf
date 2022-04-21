@@ -1,0 +1,6 @@
+set_io a 64
+set_io b 62
+set_io c 63
+set_ip d 61
+
+set_io redled 34
